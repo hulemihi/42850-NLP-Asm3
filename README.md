@@ -25,7 +25,7 @@ This repository includes experiments with different NLP approaches and models fo
 ## Team Members
 
 - Dang Ky Quan Luu
-- Elliott Li
+- Kuanlong(Elliott) Li
 - Kim Tung Tran
 - Le Minh Hieu Huynh
 - Lukita Iswara
